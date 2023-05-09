@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2023-05-09",
+      "codified-date": "2017-04-19",
+      "platform": {
+        "reproducible": "true",
+        "version": "2.10.0"
+      },
+      "publication": "publication/2023-05-09",
+      "repositories": [
+        {
+          "commit": "832a0beeaa1bc7d3739b1932420a4c37e4c8e5fe",
+          "name": "sanipueblo/law-xml"
+        },
+        {
+          "commit": "17ce07dcdd4509e3dee7f5ac5745cc699e2845e0",
+          "name": "sanipueblo/law-xml-codified"
+        }
+      ]
+    },
+    "canonical-urls": {
+      "html": "https://law.sanipueblo.org",
+      "html-bulk": "https://github.com/sanipueblo/law-html",
+      "law-git": "https://github.com/sanipueblo/law.git",
+      "static-assets": "https://github.com/sanipueblo/law-static-assets",
+      "xml-bulk": "https://github.com/sanipueblo/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": "",
+    "history-start": "2017-04-19"
+  }
+}
